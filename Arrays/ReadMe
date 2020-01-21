@@ -1,0 +1,12 @@
+Here, we learn to create Arrays in CSharp.
+array decaration -> int[] numbers = new int[5];
+length of array -> numbers.Length
+array without array size declaration -> string[] names = new string[] {"Hema","Trishul","Abhay"}
+To iterate thhru array: foreach(string name in names)
+{
+Console.WriteLine(name);
+}
+Reversing array->
+Convert string array to CharArray. use ToCharArray()
+use Array.Reverse(CharArray) to reverse array
+display using foreach
